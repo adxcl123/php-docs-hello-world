@@ -210,8 +210,8 @@
 
         // Mostrar los registros existentes
         try {
-            $serverName = "bdserversql.database.windows.net";
-            $database = "bdsql01";
+            $serverName = "dbserversql.database.windows.net";
+            $database = "bdsql1";
             $username = "adminsql";
             $password = "Servid0r1";
             
